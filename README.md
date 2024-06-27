@@ -16,6 +16,7 @@ None
 None
 ### Tools
 Git, Github, VSCode, Postman, Intellij
+
 ---
 ## EDUCATIONS
 FPT Polytechnic Tay Nguyen
