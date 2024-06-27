@@ -48,3 +48,7 @@ FPT Polytechnic Tay Nguyen
 * Github:
 * Type: Teams
 * Descriptions: A Chrome extension project using React.js that allows teachers to export grades to Excel.
+---
+## ACHIEVEMENT
+- Consolation prize in the Landing Page Hackathon 2023 organized by FPT Polytechnic.
+- Idea and Creativity Prize in the Game Viet Hackathon 2023 organized by FPT Polytechnic.
