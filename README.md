@@ -11,9 +11,9 @@ A web development student focusing on both front-end and back-end development. P
 
 ## KEY SKILLS
 ### Programming Languages
-- **Languages:** HTML & CSS, JavaScript, NodeJS, PHP
-- **Frameworks:** ReactJS, ExpressJS, Laravel
-- **Others:** MUI (ReactJS), Redux Toolkit (ReactJS)
+- **Languages:** HTML & CSS, JavaScript, PHP
+- **Frameworks:** ReactJS, ExpressJS, Laravel, Wordpress
+- **Libraries:** MUI, Redux Toolkit
 
 ### Databases
 - MySQL, MongoDB
@@ -25,6 +25,7 @@ A web development student focusing on both front-end and back-end development. P
 
 ## EDUCATION
 **FPT Polytechnic Tay Nguyen**
+2022 - 2024
 
 ---
 
@@ -44,7 +45,7 @@ A web development student focusing on both front-end and back-end development. P
 ### Support Learning IT Project
 - **Link:** [https://example.com](https://example.com)
 - **GitHub:** 
-- **Type:** Personal Project
+- **Type:** Team Project
 - **Description:** A project using ReactJS, NodeJS, MongoDB, and ExpressJS. It allows running and compiling code online, and features Q&A with AI using Gemini and ChatGPT APIs.
 
 ### IT Equipment Store Project
