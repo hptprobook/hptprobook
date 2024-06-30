@@ -64,5 +64,5 @@ A web development student focusing on both front-end and back-end development. P
 
 ## ACHIEVEMENTS
 - Consolation prize in the Landing Page Hackathon 2023 organized by FPT Polytechnic.
-![Alt text](https://drive.google.com/file/d/1Mb1Q_xRKORWB8O73DjqtwS31mD75qhVx/view?usp=sharing)
+![Alt text](https://ibb.co/wY1gVQ5)
 - Idea and Creativity Prize in the Game Viet Hackathon 2023 organized by FPT Polytechnic.
