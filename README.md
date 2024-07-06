@@ -24,32 +24,35 @@ A web development student focusing on both front-end and back-end development. P
 ## ✍️PROJECTS
 ### Todo App Project
 - **Link:** [https://example.com](https://example.com)
-- **GitHub:** 
+- **GitHub:** [https://github.com/hptprobook/frontend-framework](https://github.com/hptprobook/frontend-framework)
 - **Type:** Personal Project
 - **Description:** A Trello clone project using MongoDB, NodeJS, ReactJS, and ExpressJS. It allows users to manage tasks, drag and drop, and more.
 
 ### E-commerce Project
-- **Link:** [https://myproject.com](https://myproject.com)
-- **GitHub:** 
+- **Link:** [https://3000webapp.vercel.app](https://3000webapp.vercel.app)
+- **GitHub:** [https://github.com/hptprobook/3000](https://github.com/hptprobook/3000)
 - **Type:** Team Project
+- **Role**: Fullstack
 - **Description:** An e-commerce project using NextJS, Laravel, MySQL, and MUI. It allows users to buy and sell products.
 
 ### Support Learning IT Project
 - **Link:** [https://example.com](https://example.com)
-- **GitHub:** 
+- **GitHub:** [https://github.com/hptprobook/trainning_equipment_2024](https://github.com/hptprobook/trainning_equipment_2024)
 - **Type:** Team Project
+- **Role**: FullStack
 - **Description:** A project using ReactJS, NodeJS, MongoDB, and ExpressJS. It allows running and compiling code online, and features Q&A with AI using Gemini and ChatGPT APIs.
 
 ### IT Equipment Store Project
 - **Link:** [https://example.com](https://example.com)
-- **GitHub:** 
+- **GitHub:** [https://github.com/hptprobook/DuAnMau-NoCode](https://github.com/hptprobook/DuAnMau-NoCode)
 - **Type:** Team Project
+- **Role**: FullStack
 - **Description:** A sales project using Laravel and Blade master layout.
 
 ### Tool Export LMS Project
 - **Link:** [Export Score Extension](https://chromewebstore.google.com/detail/export-score/nligchepkpodlccjkjliepebgloolfee?authuser=0&hl=vi)
-- **GitHub:** 
 - **Type:** Team Project
+- **Role**: Front-end
 - **Description:** A Chrome extension project using ReactJS that allows teachers to export grades to Excel.
 
 ---
