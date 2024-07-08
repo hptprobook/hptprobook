@@ -75,5 +75,5 @@ A web development student focusing on both front-end and back-end development. P
 
 - Top 56 in the Generative AI organized by FPT Edu.
 
-<img src="https://img.upanh.tv/2024/07/08/genAIPrize02aa2e1ada279ffa.jpg" alt="genAIPrize02aa2e1ada279ffa.jpg" border="0">
+<img src="https://img.upanh.tv/2024/07/08/genAIPrize02aa2e1ada279ffa.jpg" alt="genAIPrize02aa2e1ada279ffa.jpg" border="0" style="width: 640px; height: 427px;">
 
