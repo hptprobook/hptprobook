@@ -23,7 +23,7 @@ A web development student focusing on both front-end and back-end development. P
 
 ## ✍️PROJECTS
 ### Todo App Project
-- **Link:** [https://example.com](https://example.com)
+- **Link:** [https://hpt-trello.vercel.app](https://hpt-trello.vercel.app)
 - **GitHub:** [https://github.com/hptprobook/frontend-framework](https://github.com/hptprobook/frontend-framework)
 - **Type:** Personal Project
 - **Description:** A Trello clone project using MongoDB, NodeJS, ReactJS, and ExpressJS. It allows users to manage tasks, drag and drop, and more.
@@ -36,7 +36,6 @@ A web development student focusing on both front-end and back-end development. P
 - **Description:** An e-commerce project using NextJS, Laravel, MySQL, and MUI. It allows users to buy and sell products.
 
 ### Support Learning IT Project
-- **Link:** [https://example.com](Support Learning IT)
 - **GitHub:** [https://github.com/hptprobook/trainning_equipment_2024](https://github.com/hptprobook/trainning_equipment_2024)
 - **Type:** Team Project
 - **Role**: FullStack
