@@ -66,4 +66,4 @@ A web development student focusing on both front-end and back-end development. P
 <img src="https://i.ibb.co/vvrR9qm/nhangiaigameviethackathon.jpg" alt="nhangiaigameviethackathon" border="0">
 ---
 - Top 56 in the Generative AI organized by FPT Edu.
-<img src="https://img.upanh.tv/2024/07/08/genAIPrize.jpg" alt="genAIPrize.jpg" border="0">
+<img src="https://i.ibb.co/cQnBDY4/gen-AIPrize.jpg" alt="gen-AIPrize" border="0">
