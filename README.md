@@ -61,7 +61,7 @@ A web development student focusing on both front-end and back-end development. P
   
 ---
 
-<img src="https://i.ibb.co/ZNCX5gq/nhangiaihackathonlandingpage.jpg" alt="nhangiaihackathonlandingpage" border="0">
+<img src="https://i.ibb.co/ZNCX5gq/nhangiaihackathonlandingpage.jpg" alt="nhangiaihackathonlandingpage" border="0" style="width: 640px; height: 427px;">
 
 ---
 
@@ -69,7 +69,7 @@ A web development student focusing on both front-end and back-end development. P
 
 ---
 
-<img src="https://i.ibb.co/vvrR9qm/nhangiaigameviethackathon.jpg" alt="nhangiaigameviethackathon" border="0">
+<img src="https://i.ibb.co/vvrR9qm/nhangiaigameviethackathon.jpg" alt="nhangiaigameviethackathon" border="0" style="width: 640px; height: 427px;">
 
 ---
 
