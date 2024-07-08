@@ -36,14 +36,14 @@ A web development student focusing on both front-end and back-end development. P
 - **Description:** An e-commerce project using NextJS, Laravel, MySQL, and MUI. It allows users to buy and sell products.
 
 ### Support Learning IT Project
-- **Link:** [https://example.com](https://example.com)
+- **Link:** [https://example.com](Support Learning IT)
 - **GitHub:** [https://github.com/hptprobook/trainning_equipment_2024](https://github.com/hptprobook/trainning_equipment_2024)
 - **Type:** Team Project
 - **Role**: FullStack
 - **Description:** A project using ReactJS, NodeJS, MongoDB, and ExpressJS. It allows running and compiling code online, and features Q&A with AI using Gemini and ChatGPT APIs.
 
 ### IT Equipment Store Project
-- **Link:** [https://example.com](https://example.com)
+- **Link:** [https://indigo-tarsier-680740.hostingersite.com](https://indigo-tarsier-680740.hostingersite.com)
 - **GitHub:** [https://github.com/hptprobook/DuAnMau-NoCode](https://github.com/hptprobook/DuAnMau-NoCode)
 - **Type:** Team Project
 - **Role**: FullStack
