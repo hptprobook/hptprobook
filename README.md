@@ -26,26 +26,28 @@ A web development student focusing on both front-end and back-end development. P
 - **Link:** [https://hpt-trello.vercel.app](https://hpt-trello.vercel.app)
 - **GitHub:** [https://github.com/hptprobook/frontend-framework](https://github.com/hptprobook/frontend-framework)
 - **Type:** Personal Project
-- **Description:** A Trello clone project using MongoDB, NodeJS, ReactJS, and ExpressJS. It allows users to manage tasks, drag and drop, and more.
+- **Description:** A Trello clone project, allows users to CRUD to-do lists, drag and drop tasks, add task details lists, descriptions, comments,...
+- **Tech**: MongoDB, ReactJS, ExpressJS, MUI
 
 ### E-commerce Website
 - **Link:** [https://3000webapp.vercel.app](https://3000webapp.vercel.app)
 - **GitHub:** [https://github.com/hptprobook/3000](https://github.com/hptprobook/3000)
 - **Type:** Team Project
-- **Role**: Fullstack
-- **Description:** An e-commerce project using NextJS, Laravel, MySQL, and MUI. It allows users to buy and sell products.
+- **Role**: Website UI-UX, Server REST API
+- **Description:** An e-commerce project with dashboard to handle categories, products, brands, tags, coupons. Client has shipping fee and VNPAY payment.
+- - **Tech**: NextJS(website), ReactJS(admin), ExpressJS(server), MUI
 
 ### Support Learning IT
 - **GitHub:** [https://github.com/hptprobook/trainning_equipment_2024](https://github.com/hptprobook/trainning_equipment_2024)
 - **Type:** Team Project
-- **Role**: FullStack
+- **Role**: Front-end, Back-end
 - **Description:** A project using ReactJS, NodeJS, MongoDB, and ExpressJS. It allows running and compiling code online, and features Q&A with AI using Gemini and ChatGPT APIs.
 
 ### IT Store
 - **Link:** [https://indigo-tarsier-680740.hostingersite.com](https://indigo-tarsier-680740.hostingersite.com)
 - **GitHub:** [https://github.com/hptprobook/DuAnMau-NoCode](https://github.com/hptprobook/DuAnMau-NoCode)
 - **Type:** Team Project
-- **Role**: FullStack
+- **Role**: Front-end, Back-end
 - **Description:** A sales project using Laravel and Blade master layout.
 
 ### Tool Export LMS
