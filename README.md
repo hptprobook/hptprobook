@@ -8,7 +8,7 @@
 ---
 
 ## ✌️PROFILE
-A web development student focusing on both front-end and back-end development. Possesses basic knowledge in developing front-end interfaces with ReactJS and back-end services with Laravel, ExpressJS. Enthusiastic about learning new technologies and improving skills to keep up with industry trends. Eager to gain hands-on experience and apply academic knowledge in a professional setting through internships.
+I am a web development student focusing on both front-end and back-end development. I have basic knowledge in creating front-end interfaces with ReactJS and NextJS, and developing back-end REST API services with Laravel and ExpressJS. I am keen on learning new technologies and improving my skills to stay updated with industry trends. I am eager to gain hands-on experience and apply my academic knowledge in a professional setting through internships.
 
 ---
 
