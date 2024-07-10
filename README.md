@@ -1,5 +1,6 @@
 # PHAN THANH HOA
 *hptprobook@gmail.com*
+*14/04/2000*
 
 ## BACK-END / FRONT-END DEVELOPER
 ## 🌐Socials
