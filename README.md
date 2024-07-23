@@ -36,7 +36,7 @@ I am a web development student focusing on both front-end and back-end developme
 - **Type:** Team Project
 - **Role**: Website UI-UX, Server REST API
 - **Description:** An e-commerce project with dashboard to handle categories, products, brands, tags, coupons. Client has shipping fee and VNPAY payment.
-- - **Tech**: NextJS(website), ReactJS(admin), ExpressJS(server), MUI
+- **Tech**: NextJS(website), ReactJS(admin), ExpressJS(server), MUI
 
 ### Support Learning IT
 - **GitHub:** [https://github.com/hptprobook/trainning_equipment_2024](https://github.com/hptprobook/trainning_equipment_2024)
@@ -61,14 +61,14 @@ I am a web development student focusing on both front-end and back-end developme
 
 ## 🏆ACHIEVEMENTS
 - Consolation prize in the Landing Page Hackathon 2023 organized by FPT Polytechnic.
-  
+- Link: [LandingPageHackathon](https://landing-page-hackathon.vercel.app)
 
 <img src="https://i.ibb.co/ZNCX5gq/nhangiaihackathonlandingpage.jpg" alt="nhangiaihackathonlandingpage" border="0" style="width: 640px; height: 427px;">
 
 ---
 
 - Idea and Creativity Prize in the Game Viet Hackathon 2023 organized by FPT Polytechnic.
-
+- Link: [GameVietHackathon](https://caodang.fpt.edu.vn/tin-tuc-poly/blog/nhin-lai-tran-chung-ket-game-viet-hackathon-90-ngay-tao-dung-tuong-lai.html)
 
 <img src="https://i.ibb.co/vvrR9qm/nhangiaigameviethackathon.jpg" alt="nhangiaigameviethackathon" border="0" style="width: 640px; height: 427px;">
 
