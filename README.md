@@ -34,7 +34,6 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 - **Mô tả:** Website bán hàng thời trang
 - **Công nghệ**: MongoDB, ReactJS, NodeJs, MUI, Socket, Firebase, TailwindCSS, React-query, Redis, Elasticsearch
 - **Chức năng nổi bật**:
-  + Thiết kế, xây dựng website, xây dựng API
   + Đăng ký, đăng nhập Google
   + Tìm kiếm gần đúng, đề xuất tìm kiếm (elasticsearch)
   + Cache data, xử lý hàng chờ giỏ hàng, thanh toán (redis)
