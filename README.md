@@ -21,8 +21,8 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 2022 - 2024
 
 ## KINH NGHIỆM
-Thành viên Xưởng thực hành FPT Polytechnic Tây Nguyên từ 10/2023 - 12/2024
-Thực tập sinh Frontend Tại Công ty TNHH Cuội Agency từ 08/2024 10/2024
+- **Thành viên Xưởng thực hành FPT Polytechnic Tây Nguyên từ 10/2023 - 12/2024**
+- **Thực tập sinh Frontend Tại Công ty TNHH Cuội Agency từ 08/2024 10/2024**
 
 ---
 
