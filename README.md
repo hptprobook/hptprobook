@@ -48,6 +48,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
   + Tìm kiếm gần đúng, đề xuất tìm kiếm (elasticsearch)
   + Cache data, xử lý hàng chờ giỏ hàng, thanh toán (redis)
   + Đơn hàng, thông báo Realtime
+  + Chatbot AI
 - **Công việc thực hiện**:
   + Nhóm trưởng
   + Phát triển API về giỏ hàng, đơn hàng, tìm kiếm elasticsearch, hàng chờ
