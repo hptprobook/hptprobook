@@ -14,7 +14,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 
 ---
 
-## 💻CÔNG NGHỆ
+## CÔNG NGHỆ
 - **Trung bình**:
   + Ngôn ngữ lập trình: Javascript, PHP
   + Framework: ReactJS, NodeJS, Laravel
@@ -56,7 +56,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 ### Todo App
 - **GitHub:** [https://github.com/hptprobook/frontend-framework](https://github.com/hptprobook/frontend-framework)
 - **Type:** Dự án Cá nhân
-- **Mô tả:** Website Todo list phát triển dựa trên [https://trello.com](Trello)
+- **Mô tả:** Website Todo list phát triển dựa trên [Trello](https://trello.com)
 - **Công nghệ**: MongoDB, ReactJS, NodeJs, MUI, Socket, Firebase, DndKit
 - **Chức năng nổi bật**:
   + Đăng ký, đăng nhập Google, Facebook
@@ -108,7 +108,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 
 ---
 
-## 🏆GIẢI THƯỞNG
+## GIẢI THƯỞNG
 - Đạt giải khuyến khích cuộc thi Landing Page Hackathon 2023
 - Link: [LandingPageHackathon](https://landing-page-hackathon.vercel.app)
 
@@ -130,7 +130,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 
 ---
 
-## 🏆CHỨNG CHỈ
+## CHỨNG CHỈ
 ---
 - **Chứng chỉ Xây dựng Ứng dụng AI trong Debug và tối ưu code trong lập trình**
 ---
