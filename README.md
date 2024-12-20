@@ -134,14 +134,20 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 ---
 - **Chứng chỉ Xây dựng Ứng dụng AI trong Debug và tối ưu code trong lập trình**
 ---
-  + Link: [https://xuongthuchanh.poly.edu.vn/certificate/PK02909/65d447264c768e0c1dbef624](https://xuongthuchanh.poly.edu.vn/certificate/PK02909/65d447264c768e0c1dbef624)
+
+  + Link: [Chứng chỉ 1](https://xuongthuchanh.poly.edu.vn/certificate/PK02909/65d447264c768e0c1dbef624)
 ---
+
   <img src="https://img.upanh.tv/2024/12/20/PK02909_65d447264c768e0c1dbef6244f59178dc7a99a72.jpg" alt="PK02909_65d447264c768e0c1dbef6244f59178dc7a99a72.jpg" border="0" style="width: 640px; height: 427px;">
 ---
+
 - **Xây dựng Tool Hỗ trợ xuất điểm trên LMS Fpoly**
 ---
-  + Link: [https://xuongthuchanh.poly.edu.vn/certificate/PK02909/65fbb01783e27d8e3458d8a6](https://xuongthuchanh.poly.edu.vn/certificate/PK02909/65fbb01783e27d8e3458d8a6)
+
+  + Link: [[Chứng chỉ 2](https://xuongthuchanh.poly.edu.vn/certificate/PK02909/65fbb01783e27d8e3458d8a6)
+
 --- 
+
   <img src="https://img.upanh.tv/2024/12/20/PK02909_65fbb01783e27d8e3458d8a6.jpg" alt="PK02909_65fbb01783e27d8e3458d8a6.jpg" border="0" style="width: 640px; height: 427px;">
 
 
