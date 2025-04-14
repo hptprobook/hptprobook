@@ -121,7 +121,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 - Đạt giải Ý tưởng và Sáng tạo cuộc thi Game Viet Hackathon 2024
 - Link: [GameVietHackathon](https://caodang.fpt.edu.vn/tin-tuc-poly/blog/nhin-lai-tran-chung-ket-game-viet-hackathon-90-ngay-tao-dung-tuong-lai.html)
 
-<img src="https://i.ibb.co/vvrR9qm/nhangiaigameviethackathon.jpg" alt="nhangiaigameviethackathon" border="0" style="width: 640px; height: 427px;">
+<img src="[https://i.ibb.co/vvrR9qm/nhangiaigameviethackathon.jpg](https://caodang.fpt.edu.vn/wp-content/uploads/Chung-ket-Game-Viet-Hackathon-FPT-Polytechnic-6-2048x1365.jpg)" alt="nhangiaigameviethackathon" border="0" style="width: 640px; height: 427px;">
 
 ---
 
