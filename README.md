@@ -33,6 +33,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
 ## KINH NGHIỆM
 - **Thành viên Xưởng thực hành FPT Polytechnic Tây Nguyên từ 10/2023 - 12/2024**
 - **Thực tập sinh Frontend Tại Công ty TNHH Cuội Agency từ 08/2024 10/2024**
+- **Học việc Nodejs & Angular developer Tại Công ty Aegona Ltđ từ 01/2025 04/2025**
 
 ---
 
