@@ -20,6 +20,7 @@ Là một lập trình viên phát triển website, có kiến thức cơ bản 
   + Framework: ReactJS, NodeJS, Laravel
   + Database: MySQL, MongoDB
   + Thư viện: TailwindCSS, Material UI, Axios, Redux, React-query, Socket.IO
+  + Back-end: RESTful API, Apollo Client, Graphql
 - **Mới bắt đầu**: Typescript, NextJs, Redis, Elasticsearch, DndKit
 
 ## TOOLS
