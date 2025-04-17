@@ -12,7 +12,7 @@ Hi, I'm **Phan Thanh Hoa**, a passionate Web Developer with expertise in buildin
 
 ### Proficient
 - **Languages**: JavaScript, PHP
-- **Frameworks**: ReactJS, Node.js, Laravel
+- **Frameworks**: ReactJS, Angular, Node.js, Laravel, Nestjs
 - **Databases**: MySQL, MongoDB
 - **Libraries/Tools**: TailwindCSS, Material UI, Axios, Redux, React Query, Socket.IO
 - **Back-end**: RESTful APIs, Apollo Client, GraphQL
