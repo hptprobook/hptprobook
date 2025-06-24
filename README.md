@@ -34,8 +34,8 @@ Hi, I'm **Phan Thanh Hoa**, a passionate Web Developer with expertise in buildin
 ---
 
 ## 💼 Experience
-- **Node.js & Angular Developer Internship**  
-  *Aegona Ltd.* (Jan 2025 - Apr 2025)  
+- **Node.js & Angular Developer Fresher**  
+  *Aegona Ltd.* (Jan 2025 - Now)  
   Developed scalable web applications and collaborated on system enhancements.
 
 - **Member, Practice Workshop**  
