@@ -5,6 +5,7 @@ Hi, I'm **Phan Thanh Hoa**, a passionate Web Developer with expertise in buildin
 📧 **Email**: [hptprobook@gmail.com](mailto:hptprobook@gmail.com)  
 📱 **Phone/Zalo**: [+84 332 741 249](https://zalo.me/0332741249)  
 🌐 **Facebook**: [facebook.com/hptprobook](https://www.facebook.com/hptprobook)
+
 💼 **Linkedln**: [linkedln.com/phan-thanh-hoa-519920359](https://www.linkedin.com/in/phan-thanh-hoa-519920359/)
 
 ---
