@@ -3,7 +3,9 @@
 Hi, I'm **Phan Thanh Hoa**, a passionate Web Developer with expertise in building dynamic and responsive web applications. I specialize in front-end development with **ReactJS** and back-end services using **Laravel** and **ExpressJS**. Always eager to learn new technologies, I thrive in collaborative environments and am committed to delivering high-quality solutions.
 
 📧 **Email**: [hptprobook@gmail.com](mailto:hptprobook@gmail.com)  
-📱 **Phone/Zalo**: [+84 332 741 249](https://zalo.me/0332741249)  
+
+📱 **Phone/Zalo**: [+84 332 741 249](https://zalo.me/0332741249)
+
 🌐 **Facebook**: [facebook.com/hptprobook](https://www.facebook.com/hptprobook)
 
 💼 **Linkedln**: [linkedln.com/phan-thanh-hoa-519920359](https://www.linkedin.com/in/phan-thanh-hoa-519920359/)
